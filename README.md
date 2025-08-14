@@ -21,7 +21,7 @@ Gosto de trabalhar em equipe, resolver problemas e estou sempre em busca de apre
 <img
  align="left" 
     alt="HTML"
-    title="HTML" 
+    title="Python" 
     width="50px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
@@ -29,7 +29,7 @@ Gosto de trabalhar em equipe, resolver problemas e estou sempre em busca de apre
 <img
  align="left" 
     alt="HTML"
-    title="HTML" 
+    title="Oracle SQL Developer" 
     width="50px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
@@ -53,7 +53,7 @@ Gosto de trabalhar em equipe, resolver problemas e estou sempre em busca de apre
 <img
  align="left" 
     alt="HTML"
-    title="HTML" 
+    title="Azure SQL Database" 
     width="50px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
@@ -61,7 +61,7 @@ Gosto de trabalhar em equipe, resolver problemas e estou sempre em busca de apre
 <img
  align="left" 
     alt="HTML"
-    title="HTML" 
+    title="Azure Cloud" 
     width="50px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
@@ -69,7 +69,7 @@ Gosto de trabalhar em equipe, resolver problemas e estou sempre em busca de apre
 <img
  align="left" 
     alt="HTML"
-    title="HTML" 
+    title="Apache Hadoop" 
     width="50px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" />
@@ -77,7 +77,7 @@ Gosto de trabalhar em equipe, resolver problemas e estou sempre em busca de apre
 <img
  align="left" 
     alt="HTML"
-    title="HTML" 
+    title="Apache Airflow" 
     width="50px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
@@ -85,7 +85,7 @@ Gosto de trabalhar em equipe, resolver problemas e estou sempre em busca de apre
 <img
  align="left" 
     alt="HTML"
-    title="HTML" 
+    title="Docker" 
     width="50px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
