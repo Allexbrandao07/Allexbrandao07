@@ -2,9 +2,9 @@
 
 **`Data Science`**
 
-Sou Állex Brandão, tenho 19 anos e sou estudante de Ciência de Dados na FIAP, com forte interesse em análise de dados, Machine Learning, Deep Learning. Estou desenvolvendo conhecimentos em Python, SQL, Power BI, Docker e soluções em nuvem como Oracle Cloud Infrastructure e Microsoft Azure.
+Sou Állex Brandão, tenho 19 anos e sou estudante de Ciência de Dados na FIAP, com interesse em análise de dados, Machine Learning e Deep Learning. Atualmente, estou desenvolvendo competências em Python, SQL, Power BI, Docker e soluções em nuvem, com foco em Oracle Cloud Infrastructure e Microsoft Azure.
 
-Gosto de trabalhar em equipe, resolver problemas e estou sempre em busca de aprender coisas novas. Acredito no poder da tecnologia para transformar realidades e estou focado em desenvolver projetos que tragam soluções inovadoras para os desafios do mundo atual.
+Tenho perfil colaborativo, gosto de atuar na resolução de problemas e busco constantemente ampliar meus conhecimentos. Acredito no potencial da tecnologia como ferramenta de transformação e direciono meus esforços para o desenvolvimento de projetos que gerem impacto real e soluções inovadoras para os desafios atuais.
 
 ---
 
