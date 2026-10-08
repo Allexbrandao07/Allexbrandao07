@@ -2,7 +2,7 @@
 
 **`Data Science`** **`Engenharia de Software`**
 
-Sou Állex Brandão, tenho 19 anos e possuo graduação completa em Ciência de Dados pela FIAP, além de atualmente cursar Engenharia de Software. Tenho interesse em análise de dados, Inteligência Artificial, Machine Learning e Deep Learning. Ao longo da minha formação e experiências práticas, venho desenvolvendo competências em Python, SQL, Power BI, Docker e soluções em nuvem, com foco em Oracle Cloud Infrastructure e Microsoft Azure, além de automação e integração de dados aplicadas a projetos com IA.
+Sou Állex Brandão. Possuo graduação completa em Ciência de Dados pela FIAP, além de atualmente cursar Engenharia de Software. Tenho interesse em análise de dados, Inteligência Artificial, Machine Learning e Deep Learning. Ao longo da minha formação e experiências práticas, venho desenvolvendo competências em Python, SQL, Power BI, Docker e soluções em nuvem, com foco em Oracle Cloud Infrastructure e Microsoft Azure, além de automação e integração de dados aplicadas a projetos com IA.
 
 Tenho um perfil colaborativo, gosto de atuar na resolução de problemas e busco constantemente ampliar meus conhecimentos. Acredito no potencial da tecnologia — especialmente da IA — como ferramenta de transformação e direciono meus esforços para o desenvolvimento de projetos que gerem impacto real e soluções inovadoras para os desafios atuais.
 
